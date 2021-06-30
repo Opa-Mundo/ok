@@ -51,3 +51,8 @@ function helloWorld(): string {
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Contributors
+
+This project exists thanks to all the people who contribute.
+<a href="../../graphs/contributors"><img src="https://opencollective.com/jekyll/contributors.svg?width=890&button=false" /></a>

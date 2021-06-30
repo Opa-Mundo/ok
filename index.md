@@ -2,7 +2,7 @@
 title: "Instalação"
 layout: post
 permalink: /
-author: "Eu mesmo"
+author: all
 ---
 
 ## Welcome to GitHub Pages

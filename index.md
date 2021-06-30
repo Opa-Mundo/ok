@@ -1,7 +1,6 @@
 ---
 overview: true
 title: PAGE TITLE
-permalink: /
 ---
 
 ## Welcome to GitHub Pages

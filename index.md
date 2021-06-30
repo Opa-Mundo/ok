@@ -1,6 +1,6 @@
 ---
 title: "Instalação"
-layout: page
+layout: post
 permalink: /
 ---
 

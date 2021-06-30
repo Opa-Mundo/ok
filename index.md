@@ -1,3 +1,10 @@
+---
+layout: default
+overview: true
+title: "PAGE TITLE"
+permalink: /
+---
+
 ## Welcome to GitHub Pages
 
 [testando](test.md)

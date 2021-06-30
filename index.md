@@ -1,6 +1,7 @@
 ---
-overview: true
 title: "Instalação"
+layout: page
+permalink: /
 ---
 
 ## Welcome to GitHub Pages

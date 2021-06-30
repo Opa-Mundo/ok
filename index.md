@@ -1,7 +1,6 @@
 ---
-layout: default
 overview: true
-title: "PAGE TITLE"
+title: PAGE TITLE
 permalink: /
 ---
 
